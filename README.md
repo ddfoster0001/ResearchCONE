@@ -1,3 +1,3 @@
-# ResearchCONE
-Research COmputer NEtwork <http://www.researchcone.net/>
+# ResearchCoNe
+Research COmputer NEtwork <http://www.researchCoNe.net/>
 
